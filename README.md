@@ -6,7 +6,7 @@
 
 - 🖥️ My tech favourites are React, Redux, CSS and Styled Components.
 
-- 🔥 Passionate about building great user experiences. 
+- ⚡ Passionate about building great user experiences. 
 
 - 📚 Background in education.
 
