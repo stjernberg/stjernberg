@@ -1,6 +1,6 @@
 ### Hi, I'm Sara 👋
 
-- ✨ I’m a Fontend Developer, currently attending the final sprint of Technigo Bootcamp.
+- ✨ I’m a Fontend Developer, graduated from Technigo Bootcamp Februrary 2021.
 
 - 🌱 I’m currently working on the final assignment, using React and Redux combined with Express and MongoDB for backend storage.
 
